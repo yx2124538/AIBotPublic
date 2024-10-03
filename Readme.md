@@ -1,6 +1,7 @@
 [简体中文](https://github.com/MayDay-wpf/AIBotPublic/blob/main/Readme.md) | [English](https://github.com/MayDay-wpf/AIBotPublic/blob/main/Readme-en.md)
 # AIBotPro 开源版
 ## 作者运营地址：[https://aibotpro.cn](https://aibotpro.cn)
+## 开发者便捷中转API（可获得每日免费额度以用于开发和调试：支持GPT，Claude，Gemini 等）：[https://api.jpny.top/](https://api.jpny.top/) 
 ## QQ交流群：833716234 [点击加入群聊【AIBot-MayMay】](https://qm.qq.com/q/2Wqd6MpW3S)（群内免费提供技术支持，任何问题都会得到解答）
 ## 开源版与闭源版差异：开源版本移除了对用户历史记录、用户资料等敏感信息的特殊加密算法，改用简易的base64编码存储，其他与闭源完全一致
 ## 技术栈
